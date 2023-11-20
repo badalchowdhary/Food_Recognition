@@ -1,1 +1,0 @@
-Trained ResNET model checkpoint
